@@ -1,4 +1,4 @@
-package com;
+package SuperKeyword;
 
 public class Account {
     protected int accountId;

@@ -1,4 +1,4 @@
-package com;
+package SuperKeyword;
 
 public class Main {
     public static void main(String[] args) {

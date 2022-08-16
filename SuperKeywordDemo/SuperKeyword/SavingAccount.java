@@ -1,4 +1,4 @@
-package com;
+package SuperKeyword;
 
 public class SavingAccount extends Account{
     public static final  int rateofinterest=7;
